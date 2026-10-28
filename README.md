@@ -32,14 +32,13 @@ Tests: `pytest`
 
 ## Why I built this
 
-[Write this yourself.]
+[the main reason to build DAISY was to simplify the complex jargon of finance market in simple terms so that it becomes it a bit accessible for people to read and understand , it helps to have a basic idea of how the finance markets are  functioning and to understand about the current on going trends about the fucnitoning of the markets in easier terms]
 
 ## Ideas for later
+[future scope includes to add more updating market referenes and also to make it more usable and accesible across paltforms, also to include more parameters to understand the stocks etc]
 
-[Write this yourself.]
 
 ## Notes
 
-[One honest line about any AI help you used.]
 
 DAISY shows past prices only. It is not investment advice.
