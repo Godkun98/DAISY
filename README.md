@@ -1,6 +1,6 @@
 # DAISY
 
-**Live app:** [add your streamlit.app link here]
+**Live app:** [https://ruacnxuwhrtwfyr42tni6g.streamlit.app/]
 
 A small stock dashboard for the Nifty 50, the BSE Sensex and a few large Indian companies. It boils each one down to four numbers and explains them in plain words.
 
