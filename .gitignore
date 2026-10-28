@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+GUIDE.md
+check_tickers.py
